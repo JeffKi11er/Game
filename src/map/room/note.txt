@@ -1,0 +1,10 @@
+//database
+5 7 //is the size of room
+0 0//x_starting and y_starting position of player
+0 0 0 0 0//store tiles data, store id on position of our file///0 is id of floor
+0 2 0 0 0
+0 1 0 1 0
+1 0 1 0 1
+0 1 0 1 0
+0 0 1 0 0
+0 0 0 0 0
